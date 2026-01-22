@@ -82,6 +82,8 @@ app.get("/api/smashes", (req, res) => {
   res.json({ smashes });
 });
 
+//Smash logic verified
+
 // GET /api/secret?code=411L -> hidden message if code is correct
 app.get("/api/secret", (req, res) => {
   const code = req.query.code;
