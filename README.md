@@ -34,5 +34,5 @@ node index.js
 ---
 
 ## 👥 Contributors
-* **Student A** (Backend Lead)
-* **Student B** (Frontend Lead)
+* **Carl Jan B. Daulo** (Backend Lead)
+* **Jaira Mae Borral** (Frontend Lead)
